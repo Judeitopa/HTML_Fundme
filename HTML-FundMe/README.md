@@ -1,4 +1,4 @@
-#[This is the hardhat-fundme contract with a front-end interface for end users to interact seamlessly with the contract]
+#This is the hardhat-fundme contract with a front-end interface for end users to interact seamlessly with the contract
 
 #Constants.js
 contains the exported ```contract address``` and ```abi``` after deployment
