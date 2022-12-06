@@ -11,3 +11,5 @@ the front-end ```html``` part of interacting with our code
 
 # index.js
 the front-end ```javascript``` version of interacting with our code
+
+```NOTE``` for this project, I downloaded a live server extension in vs code that when clicked opens the ```index.html``` file on a website
